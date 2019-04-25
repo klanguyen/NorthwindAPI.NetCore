@@ -2,7 +2,9 @@
     <thead>
         <tr>
             <th scope="col">Product</th>
-            <th scope="col">Price</th>
+            <th scope="col" class="text-right">
+                <span id="priceFilter" class="text-primary"><i class="fas fa-filter"></i> Price</span>
+            </th>
             <th scope="col">Stock</th>
         </tr>
     </thead>
@@ -21,6 +23,11 @@
     // Turn off ESLint (Windows): Tools - Options - Text Editor - Javascript - Linting
     $(function () {
         getProducts()
+
+        $('#priceFilter').on('click', function () {
+            $('#priceBar').toggle();
+        });
+
         function getProducts() {
             var id = $('#product_table').data('id');
             $.getJSON({
