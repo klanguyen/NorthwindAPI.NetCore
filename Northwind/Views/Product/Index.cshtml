@@ -1,7 +1,4 @@
-﻿@using Northwind.Models
-@model ProductViewModel
-
-<table class="table table-hover">
+﻿<table class="table table-hover">
     <thead>
         <tr>
             <th scope="col">Product</th>
@@ -9,16 +6,8 @@
             <th scope="col">Stock</th>
         </tr>
     </thead>
-    <tbody id="product_table">
-        @foreach (Product product in Model.Products)
-        {
-            <tr>
+    <tbody id="product_table" data-id="@ViewBag.id">
 
-                <td>@product.ProductName</td>
-                <td>$@product.UnitPrice</td>
-                <td>@product.UnitsInStock</td>
-            </tr>
-        }
     </tbody>
 </table>
 @section scripts
@@ -28,6 +17,8 @@
     $(function () {
         getProducts()
         function getProducts() {
+            var id = $('#product_table').data('id');
+            alert(id);
             $.getJSON({
                 url: "../../api/product",
                 success: function (response, textStatus, jqXhr) {

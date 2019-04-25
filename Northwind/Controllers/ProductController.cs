@@ -15,12 +15,11 @@ namespace Northwind.Controllers
 
         public IActionResult Category() => View(repository.Categories.OrderBy(c => c.CategoryName));
 
-        public IActionResult Index(int id) => View(new ProductViewModel
+        public IActionResult Index(int id)
         {
-            Products = repository.Products
-            .Where(p => p.Discontinued == false && p.CategoryId == id)
-            .OrderBy(p => p.ProductName)
-        });
+            ViewBag.id = id;
+            return View();
+        }
 
         public IActionResult Discount() => View(repository.Discounts
             .Where(d => d.StartTime <= DateTime.Now && d.EndTime > DateTime.Now));
