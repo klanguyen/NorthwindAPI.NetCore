@@ -1,0 +1,23 @@
+﻿@using Northwind.Models
+@model ProductViewModel
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">Product</th>
+            <th scope="col">Price</th>
+            <th scope="col">Stock</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Product product in Model.Products)
+        {
+            <tr>
+
+                <td>@product.ProductName</td>
+                <td>$@product.UnitPrice</td>
+                <td>@product.UnitsInStock</td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,207 @@
+C:\Users\bitstudent\Desktop\Northwind\Northwind\bin\Release\netcoreapp2.2\Northwind.deps.json
+C:\Users\bitstudent\Desktop\Northwind\Northwind\bin\Release\netcoreapp2.2\Northwind.runtimeconfig.json
+C:\Users\bitstudent\Desktop\Northwind\Northwind\bin\Release\netcoreapp2.2\Northwind.runtimeconfig.dev.json
+C:\Users\bitstudent\Desktop\Northwind\Northwind\bin\Release\netcoreapp2.2\Northwind.dll
+C:\Users\bitstudent\Desktop\Northwind\Northwind\bin\Release\netcoreapp2.2\Northwind.pdb
+C:\Users\bitstudent\Desktop\Northwind\Northwind\bin\Release\netcoreapp2.2\Northwind.Views.dll
+C:\Users\bitstudent\Desktop\Northwind\Northwind\bin\Release\netcoreapp2.2\Northwind.Views.pdb
+C:\Users\bitstudent\Desktop\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.csprojAssemblyReference.cache
+C:\Users\bitstudent\Desktop\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.csproj.CoreCompileInputs.cache
+C:\Users\bitstudent\Desktop\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorAssemblyInfo.cache
+C:\Users\bitstudent\Desktop\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorAssemblyInfo.cs
+C:\Users\bitstudent\Desktop\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.AssemblyInfoInputs.cache
+C:\Users\bitstudent\Desktop\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.AssemblyInfo.cs
+C:\Users\bitstudent\Desktop\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.TagHelpers.input.cache
+C:\Users\bitstudent\Desktop\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.TagHelpers.output.cache
+C:\Users\bitstudent\Desktop\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorCoreGenerate.cache
+C:\Users\bitstudent\Desktop\Northwind\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\bitstudent\Desktop\Northwind\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\bitstudent\Desktop\Northwind\Northwind\obj\Release\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\bitstudent\Desktop\Northwind\Northwind\obj\Release\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\bitstudent\Desktop\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorTargetAssemblyInfo.cache
+C:\Users\bitstudent\Desktop\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorTargetAssemblyInfo.cs
+C:\Users\bitstudent\Desktop\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.Views.pdb
+C:\Users\bitstudent\Desktop\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.dll
+C:\Users\bitstudent\Desktop\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.pdb
+C:\Users\bitstudent\Desktop\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.csproj.CopyComplete
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week4\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.csprojAssemblyReference.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week4\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.dll
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week4\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.pdb
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week4\Northwind\Northwind\bin\Release\netcoreapp2.2\Northwind.deps.json
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week4\Northwind\Northwind\bin\Release\netcoreapp2.2\Northwind.runtimeconfig.json
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week4\Northwind\Northwind\bin\Release\netcoreapp2.2\Northwind.runtimeconfig.dev.json
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week4\Northwind\Northwind\bin\Release\netcoreapp2.2\Northwind.dll
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week4\Northwind\Northwind\bin\Release\netcoreapp2.2\Northwind.pdb
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week4\Northwind\Northwind\bin\Release\netcoreapp2.2\Northwind.Views.dll
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week4\Northwind\Northwind\bin\Release\netcoreapp2.2\Northwind.Views.pdb
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week4\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.csproj.CoreCompileInputs.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week4\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorAssemblyInfo.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week4\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorAssemblyInfo.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week4\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.AssemblyInfoInputs.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week4\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.AssemblyInfo.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week4\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.TagHelpers.input.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week4\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.TagHelpers.output.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week4\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorCoreGenerate.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week4\Northwind\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week4\Northwind\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Product\Category.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week4\Northwind\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week4\Northwind\Northwind\obj\Release\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week4\Northwind\Northwind\obj\Release\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week4\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorTargetAssemblyInfo.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week4\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorTargetAssemblyInfo.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week4\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.Views.pdb
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week4\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.csproj.CopyComplete
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week6\Northwind-Assignment5\Northwind\bin\Release\netcoreapp2.2\Northwind.deps.json
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week6\Northwind-Assignment5\Northwind\bin\Release\netcoreapp2.2\Northwind.runtimeconfig.json
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week6\Northwind-Assignment5\Northwind\bin\Release\netcoreapp2.2\Northwind.runtimeconfig.dev.json
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week6\Northwind-Assignment5\Northwind\bin\Release\netcoreapp2.2\Northwind.dll
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week6\Northwind-Assignment5\Northwind\bin\Release\netcoreapp2.2\Northwind.pdb
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week6\Northwind-Assignment5\Northwind\bin\Release\netcoreapp2.2\Northwind.Views.dll
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week6\Northwind-Assignment5\Northwind\bin\Release\netcoreapp2.2\Northwind.Views.pdb
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week6\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.csprojAssemblyReference.cache
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week6\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.csproj.CoreCompileInputs.cache
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week6\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorAssemblyInfo.cache
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week6\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorAssemblyInfo.cs
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week6\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.AssemblyInfoInputs.cache
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week6\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.AssemblyInfo.cs
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week6\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.TagHelpers.input.cache
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week6\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.TagHelpers.output.cache
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week6\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorCoreGenerate.cache
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week6\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week6\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Product\Category.g.cshtml.cs
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week6\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Product\Index.g.cshtml.cs
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week6\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week6\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week6\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week6\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorTargetAssemblyInfo.cache
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week6\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorTargetAssemblyInfo.cs
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week6\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.Views.pdb
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week6\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.dll
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week6\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.pdb
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week6\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.csproj.CopyComplete
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\bin\Release\netcoreapp2.2\Northwind.deps.json
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\bin\Release\netcoreapp2.2\Northwind.runtimeconfig.json
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\bin\Release\netcoreapp2.2\Northwind.runtimeconfig.dev.json
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\bin\Release\netcoreapp2.2\Northwind.dll
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\bin\Release\netcoreapp2.2\Northwind.pdb
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\bin\Release\netcoreapp2.2\Northwind.Views.dll
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\bin\Release\netcoreapp2.2\Northwind.Views.pdb
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.csprojAssemblyReference.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.csproj.CoreCompileInputs.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorAssemblyInfo.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorAssemblyInfo.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.AssemblyInfoInputs.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.AssemblyInfo.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.TagHelpers.input.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.TagHelpers.output.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorCoreGenerate.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Product\Category.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Product\Index.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorTargetAssemblyInfo.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorTargetAssemblyInfo.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.Views.pdb
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.dll
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.pdb
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.csproj.CopyComplete
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Product\Discount.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Customer\Register.g.cshtml.cs
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\bin\Release\netcoreapp2.2\Northwind.deps.json
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\bin\Release\netcoreapp2.2\Northwind.runtimeconfig.json
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\bin\Release\netcoreapp2.2\Northwind.runtimeconfig.dev.json
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\bin\Release\netcoreapp2.2\Northwind.dll
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\bin\Release\netcoreapp2.2\Northwind.pdb
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\bin\Release\netcoreapp2.2\Northwind.Views.dll
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\bin\Release\netcoreapp2.2\Northwind.Views.pdb
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.csprojAssemblyReference.cache
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.csproj.CoreCompileInputs.cache
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorAssemblyInfo.cache
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorAssemblyInfo.cs
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.AssemblyInfoInputs.cache
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.AssemblyInfo.cs
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.TagHelpers.input.cache
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.TagHelpers.output.cache
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorCoreGenerate.cache
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Customer\Register.g.cshtml.cs
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Product\Category.g.cshtml.cs
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Product\Discount.g.cshtml.cs
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Product\Index.g.cshtml.cs
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorTargetAssemblyInfo.cache
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorTargetAssemblyInfo.cs
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.Views.pdb
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.dll
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.pdb
+C:\Users\NguyenNguyen\OneDrive - Waukesha County Technical College\DotNetWeb\Week7\Northwind-Assignment5\Northwind\obj\Release\netcoreapp2.2\Northwind.csproj.CopyComplete
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\bin\Release\netcoreapp2.2\Northwind.deps.json
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\bin\Release\netcoreapp2.2\Northwind.runtimeconfig.json
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\bin\Release\netcoreapp2.2\Northwind.runtimeconfig.dev.json
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\bin\Release\netcoreapp2.2\Northwind.dll
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\bin\Release\netcoreapp2.2\Northwind.pdb
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\bin\Release\netcoreapp2.2\Northwind.Views.dll
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\bin\Release\netcoreapp2.2\Northwind.Views.pdb
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.csprojAssemblyReference.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.csproj.CoreCompileInputs.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorAssemblyInfo.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorAssemblyInfo.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.AssemblyInfoInputs.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.AssemblyInfo.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.TagHelpers.input.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.TagHelpers.output.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorCoreGenerate.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Customer\Register.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Product\Category.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Product\Discount.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Product\Index.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\obj\Release\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\obj\Release\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorTargetAssemblyInfo.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorTargetAssemblyInfo.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.Views.pdb
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.dll
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.pdb
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.csproj.CopyComplete
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week11\On-Class\Northwind\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Customer\Account.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\bin\Release\netcoreapp2.2\Northwind.deps.json
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\bin\Release\netcoreapp2.2\Northwind.runtimeconfig.json
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\bin\Release\netcoreapp2.2\Northwind.runtimeconfig.dev.json
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\bin\Release\netcoreapp2.2\Northwind.dll
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\bin\Release\netcoreapp2.2\Northwind.pdb
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\bin\Release\netcoreapp2.2\Northwind.Views.dll
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\bin\Release\netcoreapp2.2\Northwind.Views.pdb
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.csprojAssemblyReference.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.csproj.CoreCompileInputs.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorAssemblyInfo.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorAssemblyInfo.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.AssemblyInfoInputs.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.AssemblyInfo.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.TagHelpers.input.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.TagHelpers.output.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorCoreGenerate.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Customer\Account.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Customer\Register.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Product\Category.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Product\Discount.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Product\Index.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\obj\Release\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\obj\Release\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\obj\Release\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorTargetAssemblyInfo.cache
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.RazorTargetAssemblyInfo.cs
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.Views.pdb
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.dll
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.pdb
+C:\Users\bitstudent\OneDrive - Waukesha County Technical College\DotNetWeb\Week12\Northwind\Northwind\obj\Release\netcoreapp2.2\Northwind.csproj.CopyComplete
