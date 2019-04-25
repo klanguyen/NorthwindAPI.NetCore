@@ -23,5 +23,8 @@ namespace Northwind.Controllers
         // returns all products where discontinued = true/false
         public IEnumerable<Product> GetDiscontinued(bool discontinued) => repository.Products.Where(p => p.Discontinued == discontinued).OrderBy(p => p.ProductName);
 
+        [HttpGet, Route("api/category/{CategoryId}/product")]
+        // returns all products in a specific category
+        public IEnumerable<Product> GetByCategory(int CategoryId) => repository.Products.Where(p => p.CategoryId == CategoryId).OrderBy(p => p.ProductName);
     }
 }
