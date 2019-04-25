@@ -21,3 +21,24 @@
         }
     </tbody>
 </table>
+@section scripts
+    {
+    <script>
+    // Turn off ESLint (Windows): Tools - Options - Text Editor - Javascript - Linting
+    $(function () {
+        getProducts()
+        function getProducts() {
+            $.getJSON({
+                url: "../../api/product",
+                success: function (response, textStatus, jqXhr) {
+                    console.log(response);
+                },
+                error: function (jqXHR, textStatus, errorThrown) {
+                    // log the error to the console
+                    console.log("The following error occured: " + textStatus, errorThrown);
+                }
+            });
+        }
+    });
+    </script>
+}
