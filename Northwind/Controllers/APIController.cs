@@ -30,5 +30,10 @@ namespace Northwind.Controllers
         [HttpGet, Route("api/category/{CategoryId}/product/discontinued/{discontinued}")]
         // returns all products in a specific category where discontinued = true/false
         public IEnumerable<Product> GetByCategoryDiscontinued(int CategoryId, bool discontinued) => repository.Products.Where(p => p.CategoryId == CategoryId && p.Discontinued == discontinued).OrderBy(p => p.ProductName);
+
+        [HttpGet, Route("api/category/{CategoryId}/product/discontinued/{discontinued}/maxprice/{maxprice}")]
+        // returns all products in a specific category where discontinued = true/false
+        // and where unitprice <= maxprice
+        public IEnumerable<Product> GetByCategoryDiscontinuedPrice(int CategoryId, bool discontinued, int maxprice) => repository.Products.Where(p => p.CategoryId == CategoryId && p.Discontinued == discontinued && p.UnitPrice <= maxprice).OrderBy(p => p.ProductName);
     }
 }
