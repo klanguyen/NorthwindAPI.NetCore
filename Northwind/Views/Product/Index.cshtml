@@ -18,17 +18,16 @@
         getProducts()
         function getProducts() {
             var id = $('#product_table').data('id');
-            alert(id);
             $.getJSON({
-                url: "../../api/product",
+                url: "../../api/category/" + id + "/product/discontinued/false",
                 success: function (response, textStatus, jqXhr) {
                     //console.log(response);
                     $('#product_table').html("");
                     for (var i = 0; i < response.length; i++) {
                         var row = "<tr>"
                             + "<td>" + response[i].productName + "</td>"
-                            + "<td>" + response[i].unitPrice + "</td>"
-                            + "<td>" + response[i].unitsInStock + "</td>"
+                            + "<td class=\"text-right\">$" + response[i].unitPrice.toFixed(2) + "</td>"
+                            + "<td class=\"text-right\">" + response[i].unitsInStock + "</td>"
                             + "</tr>";
                         $('#product_table').append(row);
                     }
